@@ -1,0 +1,149 @@
+body {
+    background-color: #1b2838;
+    color: white;
+    font-family: 'Muli', sans-serif;
+}
+
+.customHr {
+    background-color: white;
+}
+
+.customCard {
+    border: 0;
+    border-radius: 20px;
+    background-color: #171a21;
+    margin-top: 1rem;
+}
+
+.customFooter {
+    border: 0;
+    background-color: #171a21;
+    margin-top: 3rem;
+    z-index: 10;
+}
+
+.customForm {
+    background-color: #171a21;
+    color: #556772;
+    border-radius: 20px;
+    border: 0;
+    margin-top: 1rem;
+}
+
+.customHeader {
+    background-color: #171a21;
+    margin-bottom: .5rem;
+}
+
+.customHeaderColor {
+    color: white;
+}
+
+.customDropdown {
+    border-radius: 11px;
+}
+
+.customButton {
+    border-radius: 20px;
+}
+
+.customLogo {
+    vertical-align: initial;
+}
+
+.customTable {
+    margin-bottom: 1rem;
+    width: 100%;
+}
+
+.otherButtonColors {
+    background: #39820c;
+    box-shadow: 0 0 0 .2rem rgba(39, 95, 17, 0);
+    border-color: #275f11;
+}
+
+.customImg {
+    border-radius: 20px;
+    margin: auto;
+}
+
+.blackText {
+    color: black;
+}
+
+.boldFont {
+    font-weight: bolder;
+}
+
+.underlinedFont {
+    text-decoration: underline;
+}
+
+.buttonSpacer {
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.buttonSpacer2 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.fullWidthForm {
+    width: 100%;
+}
+
+.userImg {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.recharts-surface {
+    overflow: visible;
+}
+
+.statsSection {
+    margin-top: 1.5rem;
+}
+
+.percentColor {
+    color: #72b9db;
+}
+
+.sectionSpacer {
+    margin-bottom: 1rem;
+}
+
+.gameImg {
+    max-width: 100%;
+}
+
+.navbar-toggler {
+    border: 0;
+}
+
+.container {
+    min-height: 90vh;
+}
+
+a:link {
+    color: #66c0f4;
+}
+
+/* visited link */
+
+a:visited {
+    color: #66c0f4;
+}
+
+/* mouse over link */
+
+a:hover {
+    color: #66c0f4;
+}
+
+/* selected link */
+
+a:active {
+    color: #66c0f4;
+}

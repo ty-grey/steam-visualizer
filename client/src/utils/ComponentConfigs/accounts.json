@@ -1,0 +1,5 @@
+{
+    "_comment": "Unfortunately this needs to be hardcoded since there is no API for these numbers :(",
+    "totalAccounts": 1250000000,
+    "totalConcurrent": 23000000
+}

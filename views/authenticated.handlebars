@@ -1,0 +1,6 @@
+<script>
+    window.opener.postMessage({
+        token: {{{ jwtToken }}}
+    }, {{{ realm }}});
+    window.close();
+</script>
